@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ugadaika_Mikhailov_Vladimir</string>
+
+    <string name="behind">Недолет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">В точку!</string>
+    <string name="try_to_guess">Попробуй угадай число (1 &#8211; 100)</string>
+    <string name="play_more">Сыграть еще</string>
+    <string name="error">Неверный ввод</string>
+    <string name="input_value">Введите значение</string>
+
+</resources>
